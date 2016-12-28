@@ -1,0 +1,5 @@
+2005-11-23  Antony Quinn  <aquinn@users.sf.net>
+
+	* lib:              Updated bojava.jar
+	* OntologyMap.java: Ensure ID is not null before doing further validation
+	* build.properties: Add hawthorn.jar to release directory

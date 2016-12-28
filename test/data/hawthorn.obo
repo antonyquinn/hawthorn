@@ -1,0 +1,39 @@
+format-version: 1.0
+date: 16:03:2005 18:23
+saved-by: aquinn
+auto-generated-by: DAG-Edit 1.418
+default-namespace: default_namespace
+
+[Term]
+id: HW:000
+name: Hawthorn test ontology
+
+[Term]
+id: HW:001
+name: trunk
+is_a: HW:000
+
+[Term]
+id: HW:002
+name: branch
+is_a: HW:000
+
+[Term]
+id: HW:003
+name: bough
+is_a: HW:002
+
+[Term]
+id: HW:004
+name: twig
+is_a: HW:002
+
+[Term]
+id: HW:005
+name: leaf
+is_a: HW:000
+
+[Term]
+id: HW:006
+name: berry
+is_a: HW:000
